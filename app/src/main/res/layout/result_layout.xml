@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/_white"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialog_design"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/result_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/_almonds"
+            android:fontFamily="@font/roboto_medium"
+            android:gravity="center"
+            android:text="@string/results"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <RelativeLayout
+            android:id="@+id/progress_circular_id"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:gravity="center">
+
+            <com.mikhaellopez.circularprogressbar.CircularProgressBar
+                android:id="@+id/dialog_progress_circular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                app:cpb_background_progressbar_color="@color/quiz_wrong_color"
+                app:cpb_background_progressbar_width="7dp"
+                app:cpb_progress_direction="to_right"
+                app:cpb_progress_max="20"
+                app:cpb_progressbar_color="@color/quiz_green"
+                app:cpb_progressbar_width="7dp"
+                app:cpb_round_border="false" />
+
+            <TextView
+                android:id="@+id/dialog_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/roboto_medium"
+                android:text="@string/_00_00"
+                android:textColor="@color/black"
+                android:textSize="25sp" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/dialog_btn"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="20sp"
+            android:background="@drawable/next_button_design"
+            android:fontFamily="@font/roboto_medium"
+            android:text="@string/re_start"
+            android:textAllCaps="false"
+            android:textColor="@color/next_button"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</RelativeLayout>

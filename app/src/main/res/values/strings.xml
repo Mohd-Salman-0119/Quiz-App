@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question">Question</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="todo">TODO</string>
+    <string name="_00_00">00/00</string>
+    <string name="next">next</string>
+    <string name="oops_time_out">Oops! time out…</string>
+    <string name="try_again">Try Again</string>
+    <string name="re_start">Re-Start</string>
+    <string name="results">Results</string>
+
+
+    <!-- All Questions And Options Here -->
+    <string name="first_question">Alerts are mostly appear in ______?</string>
+    <string name="first_question_option_a">Check box</string>
+    <string name="first_question_option_b">Combo box</string>
+    <string name="first_question_option_correct_c">Dialog box</string>
+    <string name="first_question_option_d">None of the above</string>
+
+
+    <string name="second_question">Who had conceived the idea of the first ever Graphical User Interface?</string>
+    <string name="second_question_option_a">Steve Jobs</string>
+    <string name="second_question_option_b">Douglas Engelbart</string>
+    <string name="second_question_option_correct_c">Alan Kay</string>
+    <string name="second_question_option_d">Bill Gates</string>
+
+    <string name="three_question">Which of the following is a quickly accessible location which is available to the Central Processing Unit of the computer?</string>
+    <string name="three_question_option_a">Memory</string>
+    <string name="three_question_option_b">BIOS</string>
+    <string name="three_question_option_correct_c">Processor Register</string>
+    <string name="three_question_option_d">Graphic Card</string>
+
+
+    <string name="four_question">Which of the following is not an arithmetic capability of a computer?</string>
+    <string name="four_question_option_a">Addition and Subtraction</string>
+    <string name="four_question_option_b">Calculation</string>
+    <string name="four_question_option_correct_c">Copy and Paste</string>
+    <string name="four_question_option_d">All of the above</string>
+
+
+    <string name="five_question">Which of the following was considered as the world’s first fully automatic digital computer?</string>
+    <string name="five_question_option_a">Z2</string>
+    <string name="five_question_option_b">Z1</string>
+    <string name="five_question_option_correct_c">Z3</string>
+    <string name="five_question_option_d">None of the above</string>
+
+    <string name="six_question">When were the first digital electronic calculating machines developed?</string>
+    <string name="six_question_option_a">During Industrial Revolution</string>
+    <string name="six_question_option_b">During World War I</string>
+    <string name="six_question_option_correct_c">During World War II</string>
+    <string name="six_question_option_d">During Cold War</string>
+
+    <string name="seven_question">In the Windows XP, what does XP stands for?</string>
+    <string name="seven_question_option_a">Extra-Powerful</string>
+    <string name="seven_question_option_correct_b">Experience</string>
+    <string name="seven_question_option_c">Extended Platform</string>
+    <string name="seven_question_option_d">Experience Platform</string>
+
+    <string name="eight_question">While working on Microsoft Word, which among the following is the command for “Undo”?</string>
+    <string name="eight_question_option_a">Cntrl + A</string>
+    <string name="eight_question_option_correct_b">Cntrl + Z</string>
+    <string name="eight_question_option_c">Cntrl + Y</string>
+    <string name="eight_question_option_d">Cntrl + C</string>
+
+    <string name="nine_question">For his major role in the development of computer chip ‘Pentium’, which Indian IT expert is called the ‘Father of Pentium’ ?</string>
+    <string name="nine_question_option_a">Ajay Bhatt</string>
+    <string name="nine_question_option_b">Anand Chandrasekher</string>
+    <string name="nine_question_option_correct_c">Vinod Dham</string>
+    <string name="nine_question_option_d">Biswamohan Pani</string>
+
+    <string name="ten_question">Which among the following was the first operational packet switching network, and the predecessor of the Internet?</string>
+    <string name="ten_question_option_a">TELNET</string>
+    <string name="ten_question_option_correct_b">ARPANET</string>
+    <string name="ten_question_option_c">USENET</string>
+    <string name="ten_question_option_d">ALOHAnet</string>
+
+    <string name="eleven_question">Modern computers follow a generalised set of instructions to perform any function. What are these instructions better known as?</string>
+    <string name="eleven_question_option_a">Language</string>
+    <string name="eleven_question_option_b">Instructions</string>
+    <string name="eleven_question_option_c">Commands</string>
+    <string name="eleven_question_option_correct_d">Programs</string>
+
+    <string name="twelve_question">Which of the following includes Logic Operations?</string>
+    <string name="twelve_question_option_a">AND</string>
+    <string name="twelve_question_option_b">XOR</string>
+    <string name="twelve_question_option_c">NOT</string>
+    <string name="twelve_question_option_correct_d">All of the above</string>
+
+    <string name="thirteen_question">Which of the following is the scripting and programming language developed by John .H.Thompson for use in Adobe Director?</string>
+    <string name="thirteen_question_option_a">Java</string>
+    <string name="thirteen_question_option_correct_b">Lingo</string>
+    <string name="thirteen_question_option_c">VBA</string>
+    <string name="thirteen_question_option_d">Ruby</string>
+
+    <string name="fourteen_question">Which of the following languages was first conceived by Alain Colmerauer?</string>
+    <string name="fourteen_question_option_correct_a">JOSS</string>
+    <string name="fourteen_question_option_b">COBOL</string>
+    <string name="fourteen_question_option_c">HTML</string>
+    <string name="fourteen_question_option_d">BASIC</string>
+
+    <string name="fifteen_question">Which of the following are the objects in Microsoft Access?</string>
+    <string name="fifteen_question_option_a">Tables</string>
+    <string name="fifteen_question_option_b">Queries</string>
+    <string name="fifteen_question_option_c">Reports</string>
+    <string name="fifteen_question_option_correct_d">All of the Above</string>
+
+    <string name="sixteen_question">Which of the following comprise vital electronic components of an analog clock?</string>
+    <string name="sixteen_question_option_a">Multipliers</string>
+    <string name="sixteen_question_option_b">Potentiometers</string>
+    <string name="sixteen_question_option_c">Operational amplifiers</string>
+    <string name="sixteen_question_option_correct_d">All of the above</string>
+
+    <string name="seventeen_question">Every computer runs an OS software program. What does OS stand for?</string>
+    <string name="seventeen_question_option_a">Operating Software</string>
+    <string name="seventeen_question_option_correct_b">Operating System</string>
+    <string name="seventeen_question_option_c">Operating Status</string>
+    <string name="seventeen_question_option_d">Operating Supplier</string>
+
+    <string name="eighteen_question">One kilobyte has _____?</string>
+    <string name="eighteen_question_option_a">1000 bytes</string>
+    <string name="eighteen_question_option_b">128 bytes</string>
+    <string name="eighteen_question_option_correct_c">1024 bytes</string>
+    <string name="eighteen_question_option_d">1036 bytes</string>
+
+    <string name="nineteen_question">Which of the devices converts drawing, printed text or other images into digital form ?</string>
+    <string name="nineteen_question_option_a">Keyboard</string>
+    <string name="nineteen_question_option_correct_b">Scanner</string>
+    <string name="nineteen_question_option_c">Plotter</string>
+    <string name="nineteen_question_option_d">OMR</string>
+
+   <string name="twenty_question">Which of the following phenomena is used by the Blu Rays to store data?</string>
+    <string name="twenty_question_option_a">Magnetic</string>
+    <string name="twenty_question_option_b">Optical</string>
+    <string name="twenty_question_option_correct_c">Laser</string>
+    <string name="twenty_question_option_d">All of the Above</string>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+
+            <solid android:color="@color/quiz_green" />
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+    <item android:id="@+id/progress_bar">
+        <scale android:scaleWidth="100%">
+            <shape android:shape="rectangle">
+
+                <solid android:color="@color/next_button" />
+                <corners android:radius="50dp" />
+            </shape>
+        </scale>
+
+    </item>
+</layer-list>
